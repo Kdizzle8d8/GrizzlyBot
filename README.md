@@ -1,4 +1,4 @@
-#GrizzlyBot
+# GrizzlyBot
 ## A WIP Discord bot for use in the Grand Oaks High School discord server based on [GrizzlyAPI](https://github.com/Kdizzle8d8/GrizzlyAPI) 
 ---
 
